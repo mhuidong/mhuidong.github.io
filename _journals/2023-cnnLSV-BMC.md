@@ -3,6 +3,6 @@ title: "cnnLSV: detecting structural variants by encoding long-read alignment in
 collection: publications
 date: 2023-03-21
 venue: 'BMC Bioinformatics, CCF-C'
-paperurl: /journal/J1-2023-cnnLSV
+paperurl: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05243-x
 ---
 **Huidong Ma**, Cheng Zhong, Danyang Chen, Haofa He, Feng Yang
