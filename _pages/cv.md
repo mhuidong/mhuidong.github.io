@@ -18,21 +18,19 @@ redirect_from:
 Service and Leadership
 ======
 * Conference Services
-  * 2025: WWW'25, Reviewer
+  * 2024: WWW'25, Reviewer
 
-Honors
+Honors & Awards
 ======
-<!-- * 2018: China National Scholarship for undergraduate students, QUST-->
-  
-Awards
-======
-* 2023: Third Prize of FinancialCryptography, Suzhou, China
+* 2024: Second-Class Academic Scholarship, NKU
+* 2024: Excellence Award of “Tiankai Cup” National University Students' Intelligent Technology Innovation and Entrepreneurship Challenge, Tianjin
+* 2023: First Prize of the 6th “Principal's Cup” Innovation and Entrepreneurship Competition, NKU
+* 2023: Third-Class Academic Scholarship, NKU
 
 Skills
 ======
 * Languages: English (CET-6)
 * Coding: Python, Pytorch, LATEX, ...
-* Misc.: Academic research on federated learning
 
 <!-- Publications
 ======
@@ -46,14 +44,22 @@ Skills
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
-======
-  
-<!--  Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
+
+[//]: # (Teaching)
+
+[//]: # (======)
+
+[//]: # (  )
+[//]: # (<!--  Teaching)
+
+[//]: # (======)
+
+[//]: # (  <ul>{% for post in site.teaching %})
+
+[//]: # (    {% include archive-single-cv.html %})
+
+[//]: # (  {% endfor %}</ul> -->)
   
 
 
