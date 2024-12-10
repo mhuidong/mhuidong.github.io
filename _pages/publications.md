@@ -29,6 +29,6 @@ Co-author Publications
 
 {% include base_path %}
 
-{% for post in site.coauthors reversed %}
+{% for post in site.journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
