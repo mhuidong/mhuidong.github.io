@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ma Huidong"
+  name             : "Huidong Ma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate"
   location         : "Tianjin, China"
   employer         : "Nankai University"
   uri              : # URL
