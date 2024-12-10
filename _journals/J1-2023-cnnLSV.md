@@ -1,8 +1,8 @@
 ---
 title: "cnnLSV: detecting structural variants by encoding long-read alignment information and convolutional neural network"
 collection: publications
-date: 2023-01-01
-venue: 'BMC Bioinformatics'
-paperurl: /publication/01-2023-cnnLSV
+date: 2023-03-21
+venue: 'BMC Bioinformatics, CCF-C'
+paperurl: /journal/J1-2023-cnnLSV
 ---
-**Huidong Ma**, Cheng Zhong
+**Huidong Ma**, Cheng Zhong$^{\ast}$, Danyang Chen, Haofa He, Feng Yang
