@@ -5,4 +5,4 @@ date: 2024-3-1
 venue: 'Data Compression Conference (DCC), CCF-B, poster'
 paperurl: https://ieeexplore.ieee.org/abstract/document/10533699
 ---
-Huisun$^{\dagger}$, **Huidong Ma**$^{\dagger}$, Yingfeng Zheng, Haonan Xie, Meng Yan, Cheng Zhong, Xiaoguang Liu, Gang Wang
+Hui Sun$^{\dagger}$, **Huidong Ma**$^{\dagger}$, Yingfeng Zheng, Haonan Xie, Meng Yan, Cheng Zhong, Xiaoguang Liu, Gang Wang
