@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=7DqiAM8AAAAJ&hl"
   email            : "mahd@nbjl.nankai.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -190,7 +190,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  
+
 
 # Defaults
 defaults:
