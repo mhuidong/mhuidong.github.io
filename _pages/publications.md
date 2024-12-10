@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Conference Publications
+First-author Publications
 ======
 
 {% if author.googlescholar %}
@@ -21,7 +21,7 @@ Conference Publications
 
 ---
 
-Journal Publications
+Co-author Publications
 ======
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -29,6 +29,6 @@ Journal Publications
 
 {% include base_path %}
 
-{% for post in site.journals reversed %}
+{% for post in site.co-author reversed %}
   {% include archive-single.html %}
 {% endfor %}
