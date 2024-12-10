@@ -5,4 +5,4 @@ date: 2024-05-11
 venue: 'Journal of Chinese Computer System, CCF-T2'
 paperurl:
 ---
-Haofa He, Huidong Ma, Cheng Zhong
+Haofa He, **Huidong Ma**, Cheng Zhong
