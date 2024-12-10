@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # Publications.md markdown generator for academicpages
+# # Publications markdown generator for academicpages
 # 
 # Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
 # 
@@ -62,7 +62,7 @@ def html_escape(text):
 # In[5]:
 
 import os
-for row, item in publications.iterrows():
+for idx, (row, item) in enumerate(publications.iterrows()):
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
@@ -70,7 +70,7 @@ for row, item in publications.iterrows():
     
     ## YAML variables
     
-    md = "---\ntitle: \""   + item.title + '"\n'
+    md = "---\ntitle: \""  + (idx+1) + " " + item.title + '"\n'
     
     md += """collection: publications"""
     
