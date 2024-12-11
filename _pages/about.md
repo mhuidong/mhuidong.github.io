@@ -11,10 +11,10 @@ I am Huidong Ma, currently pursuing my PhD in Computer Science and Technology at
 
 I'm interests are in data compression, deep learning and parallel computing.
 
-
+<!-- 
 Research Interest
 ======
-I’m interested in 
+I’m interested in -->
 
 <!-- 
 Education
