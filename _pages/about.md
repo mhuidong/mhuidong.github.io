@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm 
-<!--Prior to NKU, I received bachelor degree from Qingdao University of Science and Technology in 2019.-->
+I am Huidong Ma, currently pursuing my PhD in Computer Science and Technology at Nankai University. My supervisor is Prof. Liu Xiaoguang.
+
+I'm interests are in data compression, deep learning and parallel computing.
+
 
 Research Interest
 ======
