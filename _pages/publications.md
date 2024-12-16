@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-First-author Publications
+First-author
 ======
 
 {% if author.googlescholar %}
@@ -21,7 +21,7 @@ First-author Publications
 
 ---
 
-Co-author Publications
+Co-author
 ======
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
