@@ -1,7 +1,7 @@
 ---
 title: "A Survey and Benchmark Evaluation for Neural-Network-BasedLossless Universal Compressors Toward Multi-Source Data"
 collection: publications
-date: 2024-12-10
+date: 2025-03-21
 venue: 'Frontiers of Computer Science, CCF-B'
 paperurl: https://link.springer.com/article/10.1007/s11704-024-40300-5
 ---
